@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ingdiegoblu
-Mechanical Engineer interested in AI, Machine Learning and Data Analysis
+Mechanical Engineer interested in AI, Machine Learning and Data Analysis.
 I will be uploading some personal projects and samples which hopefully could help you in a certain way.
 
 - 🌱 I’m currently learning through a process of certifications
